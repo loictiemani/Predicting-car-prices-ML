@@ -21,10 +21,7 @@ lazy-object-proxy==1.4.3
 libarchive-c==2.9
 llvmlite==0.34.0
 locket==0.2.0
-
-matplotlib @ file:///opt/concourse/worker/volumes/live/f7797860-f8aa-410c-4a56-72315954816b/volume/matplotlib-base_1603378002957/work
 mccabe==0.6.1
-mistune @ file:///opt/concourse/worker/volumes/live/95802d64-d39c-491b-74ce-b9326880ca54/volume/mistune_1594373201816/work
 mkl-fft==1.2.0
 mkl-random==1.1.1
 mkl-service==2.3.0
