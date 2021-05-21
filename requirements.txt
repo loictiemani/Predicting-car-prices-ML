@@ -22,9 +22,6 @@ libarchive-c==2.9
 llvmlite==0.34.0
 locket==0.2.0
 mccabe==0.6.1
-mkl-fft==1.2.0
-mkl-random==1.1.1
-mkl-service==2.3.0
 mock==4.0.2
 more-itertools @ file:///tmp/build/80754af9/more-itertools_1598884071673/work
 mpl-finance==0.10.1
@@ -119,10 +116,8 @@ termcolor==1.1.0
 terminado==0.9.1
 testpath==0.4.4
 threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
-
 unicodecsv==0.14.1
 urllib3 @ file:///tmp/build/80754af9/urllib3_1603305693037/work
-
 webdriver-manager==3.2.2
 webencodings==0.5.1
 Werkzeug==1.0.1
