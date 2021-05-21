@@ -23,7 +23,6 @@ llvmlite==0.34.0
 locket==0.2.0
 mccabe==0.6.1
 mock==4.0.2
-more-itertools @ file:///tmp/build/80754af9/more-itertools_1598884071673/work
 mpl-finance==0.10.1
 mplfinance==0.12.7a10
 mpmath==1.1.0
@@ -37,7 +36,6 @@ notebook @ file:///opt/concourse/worker/volumes/live/be0f3504-189d-4bae-4e57-c5d
 numba @ file:///opt/concourse/worker/volumes/live/ae24c1ca-d916-4043-5919-a843fa33e451/volume/numba_1600084276085/work
 numexpr==2.7.1
 numpy @ file:///opt/concourse/worker/volumes/live/5572694e-967a-4c0c-52cf-b53d43e72de9/volume/numpy_and_numpy_base_1603491881791/work
-numpydoc @ file:///tmp/build/80754af9/numpydoc_1594166760263/work
 packaging==20.4
 pandas @ file:///opt/concourse/worker/volumes/live/f14cf8c4-c564-4eff-4b17-158e90dbf88a/volume/pandas_1602088128240/work
 pandas-datareader==0.9.0
